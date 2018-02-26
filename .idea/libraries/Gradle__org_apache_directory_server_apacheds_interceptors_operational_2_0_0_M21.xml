@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.directory.server:apacheds-interceptors-operational:2.0.0-M21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptors-operational/2.0.0-M21/a2010d8dfdcaa393e3b8e61b224c119ec4dc8c4f/apacheds-interceptors-operational-2.0.0-M21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptors-operational/2.0.0-M21/e417aa6ac3b01a12fa121533742a8dfb67ee9418/apacheds-interceptors-operational-2.0.0-M21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

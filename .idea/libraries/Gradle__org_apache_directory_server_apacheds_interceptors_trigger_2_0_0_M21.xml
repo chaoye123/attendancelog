@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.directory.server:apacheds-interceptors-trigger:2.0.0-M21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptors-trigger/2.0.0-M21/96e6473384594ef1f5d5030bba12e1cece8c843d/apacheds-interceptors-trigger-2.0.0-M21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptors-trigger/2.0.0-M21/86d6ce85726583c855bf2dcad4521195f927e319/apacheds-interceptors-trigger-2.0.0-M21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

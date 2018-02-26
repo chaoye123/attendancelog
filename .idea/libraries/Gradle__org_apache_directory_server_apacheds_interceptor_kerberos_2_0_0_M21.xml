@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.directory.server:apacheds-interceptor-kerberos:2.0.0-M21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptor-kerberos/2.0.0-M21/fc9e9e6e77b524d51a5146dccf207b8206231185/apacheds-interceptor-kerberos-2.0.0-M21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-interceptor-kerberos/2.0.0-M21/54e8f7a8fdd90a59296291bdcb2159199b6661c5/apacheds-interceptor-kerberos-2.0.0-M21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

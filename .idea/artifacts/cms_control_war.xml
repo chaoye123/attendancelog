@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cms-control:war">
+    <output-path>$PROJECT_DIR$/../../center-cms/cms-control/target</output-path>
+    <root id="archive" name="center-cms-1.0.1.2.war">
+      <element id="artifact" artifact-name="cms-control:war exploded" />
+    </root>
+  </artifact>
+</component>

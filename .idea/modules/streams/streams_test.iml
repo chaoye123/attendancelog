@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":streams:test" external.linked.project.path="D:/code/kafka-0.11.0.1-src/streams" external.root.project.path="D:/code/kafka-0.11.0.1-src" external.system.id="GRADLE" external.system.module.group="org.apache.kafka" external.system.module.type="sourceSet" external.system.module.version="0.11.0.1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output-test url="file://D:/code/kafka-0.11.0.1-src/streams/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://D:/code/kafka-0.11.0.1-src/streams/src/test">
+      <sourceFolder url="file://D:/code/kafka-0.11.0.1-src/streams/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://D:/code/kafka-0.11.0.1-src/streams/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="clients_test" production-on-test="" />
+    <orderEntry type="module" module-name="core_test" production-on-test="" />
+    <orderEntry type="module" module-name="streams_main" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/code/kafka-0.11.0.1-src/core/build/classes/scala/test" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="core_main" />
+    <orderEntry type="module" module-name="json_main" />
+    <orderEntry type="module" module-name="api_main" />
+    <orderEntry type="module" module-name="clients_main" />
+    <orderEntry type="library" name="Gradle: com.yammer.metrics:metrics-core:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.101tec:zkclient:0.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.zookeeper:zookeeper:3.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Gradle: org.rocksdb:rocksdbjni:5.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.easymock:easymock:3.4" level="project" />
+    <orderEntry type="library" name="Gradle: net.jpountz.lz4:lz4:1.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.xerial.snappy:snappy-java:1.1.2.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala-library:2.11.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="streams_main" />
+</module>

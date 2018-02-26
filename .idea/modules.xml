@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/api/api.iml" group="connect/api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/api/api_main.iml" group="connect/api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/api/api_test.iml" group="connect/api" />
+      <module fileurl="file://$PROJECT_DIR$/attendancelog.iml" filepath="$PROJECT_DIR$/attendancelog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients.iml" group="clients" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients_main.iml" group="clients" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clients/clients_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clients/clients_test.iml" group="clients" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/connect.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/connect.iml" group="connect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/connect_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/connect_main.iml" group="connect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/connect_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/connect_test.iml" group="connect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_main.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_scoverage.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_scoverage.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_test.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_testScoverage.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_testScoverage.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/file/file.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/file/file.iml" group="connect/file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/file/file_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/file/file_main.iml" group="connect/file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/file/file_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/file/file_test.iml" group="connect/file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks.iml" filepath="$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks.iml" group="jmh-benchmarks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks_main.iml" group="jmh-benchmarks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jmh-benchmarks/jmh-benchmarks_test.iml" group="jmh-benchmarks" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/json/json.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/json/json.iml" group="connect/json" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/json/json_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/json/json_main.iml" group="connect/json" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/json/json_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/json/json_test.iml" group="connect/json" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka-0.11.0.1-src.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka-0.11.0.1-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples.iml" group="examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples_main.iml" group="examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/examples/kafka-0.11.0.1-src-examples_test.iml" group="examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender.iml" group="log4j-appender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender_main.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender_main.iml" group="log4j-appender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender_test.iml" filepath="$PROJECT_DIR$/.idea/modules/log4j-appender/log4j-appender_test.iml" group="log4j-appender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/runtime/runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/runtime/runtime.iml" group="connect/runtime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/runtime/runtime_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/runtime/runtime_main.iml" group="connect/runtime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/runtime/runtime_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/runtime/runtime_test.iml" group="connect/runtime" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/streams.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/streams.iml" group="streams" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples.iml" group="streams/examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples_main.iml" group="streams/examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/examples/streams-examples_test.iml" group="streams/examples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/streams_main.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/streams_main.iml" group="streams" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams/streams_test.iml" filepath="$PROJECT_DIR$/.idea/modules/streams/streams_test.iml" group="streams" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tools/tools.iml" filepath="$PROJECT_DIR$/.idea/modules/tools/tools.iml" group="tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tools/tools_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tools/tools_main.iml" group="tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tools/tools_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tools/tools_test.iml" group="tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/transforms/transforms.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/transforms/transforms.iml" group="connect/transforms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/transforms/transforms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/transforms/transforms_main.iml" group="connect/transforms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect/transforms/transforms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/connect/transforms/transforms_test.iml" group="connect/transforms" />
+    </modules>
+  </component>
+</project>

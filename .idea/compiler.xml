@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="attendancelog" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="api_main" target="1.7" />
+      <module name="api_test" target="1.7" />
+      <module name="attendancelog" target="1.8" />
+      <module name="caocao-core" target="1.7" />
+      <module name="caocao-parent" target="1.7" />
+      <module name="caocao-service-integration" target="1.7" />
+      <module name="caocao-util" target="1.7" />
+      <module name="caocao-website" target="1.7" />
+      <module name="center-cms" target="1.7" />
+      <module name="center-operation" target="1.7" />
+      <module name="clients_main" target="1.7" />
+      <module name="clients_test" target="1.7" />
+      <module name="cms-api" target="1.7" />
+      <module name="cms-control" target="1.7" />
+      <module name="cms-core" target="1.7" />
+      <module name="cms-util" target="1.7" />
+      <module name="connect_main" target="1.7" />
+      <module name="connect_test" target="1.7" />
+      <module name="core_main" target="1.7" />
+      <module name="core_scoverage" target="1.7" />
+      <module name="core_test" target="1.7" />
+      <module name="core_testScoverage" target="1.7" />
+      <module name="file_main" target="1.7" />
+      <module name="file_test" target="1.7" />
+      <module name="jmh-benchmarks_main" target="1.7" />
+      <module name="jmh-benchmarks_test" target="1.7" />
+      <module name="json_main" target="1.7" />
+      <module name="json_test" target="1.7" />
+      <module name="kafka-0.11.0.1-src-examples_main" target="1.7" />
+      <module name="kafka-0.11.0.1-src-examples_test" target="1.7" />
+      <module name="log4j-appender_main" target="1.7" />
+      <module name="log4j-appender_test" target="1.7" />
+      <module name="operation-api" target="1.7" />
+      <module name="operation-base" target="1.7" />
+      <module name="operation-car" target="1.7" />
+      <module name="operation-carbon" target="1.7" />
+      <module name="operation-common" target="1.7" />
+      <module name="operation-control" target="1.7" />
+      <module name="operation-core" target="1.7" />
+      <module name="operation-customerservice" target="1.7" />
+      <module name="operation-finance" target="1.7" />
+      <module name="operation-marketing" target="1.7" />
+      <module name="operation-order" target="1.7" />
+      <module name="operation-realtime" target="1.7" />
+      <module name="operation-user" target="1.7" />
+      <module name="operation-util" target="1.7" />
+      <module name="runtime_main" target="1.7" />
+      <module name="runtime_test" target="1.7" />
+      <module name="streams-examples_main" target="1.7" />
+      <module name="streams-examples_test" target="1.7" />
+      <module name="streams_main" target="1.7" />
+      <module name="streams_test" target="1.7" />
+      <module name="tools_main" target="1.7" />
+      <module name="tools_test" target="1.7" />
+      <module name="transforms_main" target="1.7" />
+      <module name="transforms_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

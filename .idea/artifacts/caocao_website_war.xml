@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="caocao-website:war">
+    <output-path>$PROJECT_DIR$/../website/caocao-website/caocao-website/target</output-path>
+    <root id="archive" name="caocao-website.war">
+      <element id="artifact" artifact-name="caocao-website:war exploded" />
+    </root>
+  </artifact>
+</component>

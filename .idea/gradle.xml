@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="D:/code/kafka-0.11.0.1-src" />
+        <option name="gradleHome" value="C:/gradle-4.2-all/gradle-4.2" />
+        <option name="modules">
+          <set>
+            <option value="D:/code/kafka-0.11.0.1-src" />
+            <option value="D:/code/kafka-0.11.0.1-src/clients" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect/api" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect/file" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect/json" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect/runtime" />
+            <option value="D:/code/kafka-0.11.0.1-src/connect/transforms" />
+            <option value="D:/code/kafka-0.11.0.1-src/core" />
+            <option value="D:/code/kafka-0.11.0.1-src/examples" />
+            <option value="D:/code/kafka-0.11.0.1-src/jmh-benchmarks" />
+            <option value="D:/code/kafka-0.11.0.1-src/log4j-appender" />
+            <option value="D:/code/kafka-0.11.0.1-src/streams" />
+            <option value="D:/code/kafka-0.11.0.1-src/streams/examples" />
+            <option value="D:/code/kafka-0.11.0.1-src/tools" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="operation-control:war">
+    <output-path>$PROJECT_DIR$/../center-operation/operation-control/target</output-path>
+    <root id="archive" name="center-operation-2.1.5.war">
+      <element id="artifact" artifact-name="operation-control:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.directory.server:apacheds-core-avl:2.0.0-M21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-core-avl/2.0.0-M21/18c64190f2d38988c6d8c6cbd1bfae85d1e03181/apacheds-core-avl-2.0.0-M21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.directory.server/apacheds-core-avl/2.0.0-M21/380dc9e8696fb017aa1d1ebcbe6b3bfd3ba04031/apacheds-core-avl-2.0.0-M21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
